@@ -45,7 +45,7 @@ brew_install zsh
 brew_install wget
 brew_install node
 brew_install yarn
-
+brew_install watchman
 
 # npm install
 npm_install eslint
